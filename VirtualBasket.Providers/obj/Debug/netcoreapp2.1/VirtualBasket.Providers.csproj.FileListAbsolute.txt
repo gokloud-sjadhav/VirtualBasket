@@ -1,0 +1,14 @@
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Providers\bin\Debug\netcoreapp2.1\VirtualBasket.Providers.deps.json
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Providers\bin\Debug\netcoreapp2.1\VirtualBasket.Providers.dll
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Providers\bin\Debug\netcoreapp2.1\VirtualBasket.Providers.pdb
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Providers\obj\Debug\netcoreapp2.1\VirtualBasket.Providers.csprojAssemblyReference.cache
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Providers\obj\Debug\netcoreapp2.1\VirtualBasket.Providers.csproj.CoreCompileInputs.cache
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Providers\obj\Debug\netcoreapp2.1\VirtualBasket.Providers.AssemblyInfoInputs.cache
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Providers\obj\Debug\netcoreapp2.1\VirtualBasket.Providers.AssemblyInfo.cs
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Providers\obj\Debug\netcoreapp2.1\VirtualBasket.Providers.dll
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Providers\obj\Debug\netcoreapp2.1\VirtualBasket.Providers.pdb
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Providers\bin\Debug\netcoreapp2.1\VirtualBasket.Models.dll
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Providers\bin\Debug\netcoreapp2.1\VirtualBasket.Models.pdb
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Providers\obj\Debug\netcoreapp2.1\VirtualBasket.Providers.csproj.CopyComplete
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Providers\bin\Debug\netcoreapp2.1\VirtualBasket.Exceptions.dll
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Providers\bin\Debug\netcoreapp2.1\VirtualBasket.Exceptions.pdb

@@ -1,0 +1,9 @@
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Models\bin\Debug\netcoreapp2.1\VirtualBasket.Models.deps.json
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Models\bin\Debug\netcoreapp2.1\VirtualBasket.Models.dll
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Models\bin\Debug\netcoreapp2.1\VirtualBasket.Models.pdb
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Models\obj\Debug\netcoreapp2.1\VirtualBasket.Models.csproj.CoreCompileInputs.cache
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Models\obj\Debug\netcoreapp2.1\VirtualBasket.Models.AssemblyInfoInputs.cache
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Models\obj\Debug\netcoreapp2.1\VirtualBasket.Models.AssemblyInfo.cs
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Models\obj\Debug\netcoreapp2.1\VirtualBasket.Models.dll
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Models\obj\Debug\netcoreapp2.1\VirtualBasket.Models.pdb
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Models\obj\Debug\netcoreapp2.1\VirtualBasket.Models.csprojAssemblyReference.cache

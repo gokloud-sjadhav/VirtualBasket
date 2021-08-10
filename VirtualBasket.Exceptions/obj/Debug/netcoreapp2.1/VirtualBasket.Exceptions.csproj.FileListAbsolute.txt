@@ -1,0 +1,8 @@
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Exceptions\bin\Debug\netcoreapp2.1\VirtualBasket.Exceptions.deps.json
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Exceptions\bin\Debug\netcoreapp2.1\VirtualBasket.Exceptions.dll
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Exceptions\bin\Debug\netcoreapp2.1\VirtualBasket.Exceptions.pdb
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Exceptions\obj\Debug\netcoreapp2.1\VirtualBasket.Exceptions.csproj.CoreCompileInputs.cache
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Exceptions\obj\Debug\netcoreapp2.1\VirtualBasket.Exceptions.AssemblyInfoInputs.cache
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Exceptions\obj\Debug\netcoreapp2.1\VirtualBasket.Exceptions.AssemblyInfo.cs
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Exceptions\obj\Debug\netcoreapp2.1\VirtualBasket.Exceptions.dll
+F:\GoKloud Workspace\Assignments\VirtualBasketApp\VirtualBasket.Exceptions\obj\Debug\netcoreapp2.1\VirtualBasket.Exceptions.pdb

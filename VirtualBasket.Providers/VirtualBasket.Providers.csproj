@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VirtualBasket.Exceptions\VirtualBasket.Exceptions.csproj" />
+    <ProjectReference Include="..\VirtualBasket.Models\VirtualBasket.Models.csproj" />
+  </ItemGroup>
+
+</Project>

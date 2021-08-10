@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "VirtualBasket.Providers/1.0.0": {
+        "dependencies": {
+          "VirtualBasket.Exceptions": "1.0.0",
+          "VirtualBasket.Models": "1.0.0"
+        },
+        "runtime": {
+          "VirtualBasket.Providers.dll": {}
+        }
+      },
+      "VirtualBasket.Exceptions/1.0.0": {
+        "runtime": {
+          "VirtualBasket.Exceptions.dll": {}
+        }
+      },
+      "VirtualBasket.Models/1.0.0": {
+        "runtime": {
+          "VirtualBasket.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VirtualBasket.Providers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VirtualBasket.Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VirtualBasket.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
